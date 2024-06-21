@@ -5,7 +5,13 @@ Install Deno via the following PowerShell command **`irm https://deno.land/insta
 ### VSCode
 Install [Visual Studio Code](https://code.visualstudio.com/download) from https://code.visualstudio.com/download
 #### Configure VSCode
-* Install [Deno](vscode:extension/denoland.vscode-deno) from vscode:extension/denoland.vscode-deno
+Install **Extensions**
+##### Deno
+Click **`View`** > **`Extensions`**
+  type **`deno`** within the and press enter
+  click **`Deno`**
+  click **`Install`**
+    
 * 
 
 
