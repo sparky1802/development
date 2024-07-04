@@ -8,7 +8,7 @@ Install [Visual Studio Code](https://code.visualstudio.com/download) from https:
 Install **Extensions**
 ##### Deno
 Click **`View`** > **`Extensions`**
-  type **`deno`** within the and press enter
+  type **`deno`** within the **Search Extensions** bar and press enter
   click **`Deno`**
   click **`Install`**
     
